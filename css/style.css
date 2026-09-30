@@ -11,7 +11,7 @@ main{
 section{
    margin-top: 30px;
    padding: 20px;
-   border-left: 4px solid deeppink;
+   border: 4px solid lightpink;
 }
 h1{
    font-size: 2.5em;
