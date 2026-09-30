@@ -1,16 +1,40 @@
 body{
    background-color:rgba(233, 206, 210, 0.5);
-
+   color: #333; /* Darker text for readability */
+   font-family: 'Ariel';
+}
+main{
+   max-width: 600px;
+   margin: 0 auto;
+   padding: 20px;
+}
+section{
+   margin-top: 30px;
+   padding: 20px;
+   border-left: 4px solid deeppink;
 }
 h1{
+   font-size: 2.5em;
+   margin-bottom: 20px;
     color:deeppink;
 }
 h2{
+   font-size: 1.8em;
     color:deeppink;
 }
 p{
     color:deeppink;
 }
+p, li{
+   line-height: 1.6;
+   color #333;
+}
 .list{
     color:rgb(40, 116, 174);
+}
+img{
+   border-radius: 10px;
+   border: 3px solid deeppink;
+   display: block;
+   margin: 20px auto;
 }
