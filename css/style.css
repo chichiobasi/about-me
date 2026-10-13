@@ -35,7 +35,7 @@ p, li{
 }
 img{
    border-radius: 10px;
-   border: 3px solid deeppink;
+   border: 3px dotted deeppink;
    display: block;
    margin: 20px auto;
 }
